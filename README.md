@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srikanth Margam</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A Full Stack Developer with focused on Frontend Development, in Love with JavaScript and Love-Hate relationship with CSS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikanth000" alt="srikanth000" /> </p>
 
