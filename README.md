@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srikanth Margam</h1>
-<h3 align="center">A FullStack Developer intereste</h3>
+<h3 align="center">A FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikanth000" alt="srikanth000" /> </p>
 
