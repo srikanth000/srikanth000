@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Srikanth Margam</h1>
-<h3 align="center">A Full Stack Developer with focused on Frontend Development, in Love with JavaScript and Love-Hate relationship with CSS</h3>
+<h3 align="center">A FullStack Developer intereste</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikanth000" alt="srikanth000" /> </p>
 
-- 🔭 I’m currently working on **React app Optimizations**
+- 🔭 I’m currently working on **React app Optimizations, Building TDD endpoints**
 
-- 🌱 I’m currently learning **Nodejs, TypeScript**
+- 🌱 I’m currently learning **TypeScript and Rspec, kibana with elasticsearch **
 
 - 👨‍💻 All of my projects are available at [https://srikanth000.github.io/me/](https://srikanth000.github.io/me/)
 
