@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikanth000" alt="srikanth000" /> </p>
 
-- 🔭 I’m currently working on **React app Optimizations, Building TDD endpoints**
+- 🔭 I’m currently working on **React app Optimizations, Building TDD components**
 
-- 🌱 I’m currently learning **TypeScript and Rspec, kibana with elasticsearch **
+- 🌱 I’m currently learning **TypeScript with react **
 
 - 👨‍💻 All of my projects are available at [https://srikanth000.github.io/me/](https://srikanth000.github.io/me/)
 
