@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript with react **
 
-- 👨‍💻 All of my projects are available at [https://srikanth000.github.io/me/](https://srikanth000.github.io/me/)
+- 👨‍💻 All of my projects are available at [https://srikanth000.github.io/srikanth-v2/](https://srikanth000.github.io/srikanth-v2/)
 
 - 💬 Ask me about **React, JavaScript, ROR, CSS**
 
