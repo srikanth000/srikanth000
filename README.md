@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **System Design and core of FE**
 
-- 👨‍💻 All of my projects are available at [https://srikanth000.github.io/srikanth-v2/](https://srikanth000.github.io/srikanth-v2/)
-
 - 💬 Ask me about **React, JavaScript**
 
 - 📫 How to reach me **margamsriaknth.cs7@gmail.com**
