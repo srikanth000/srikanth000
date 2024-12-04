@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **System Design and core of FE**
 
-- 💬 Ask me about **React, JavaScript, Typscript**
+- 💬 Ask me about **React, JavaScript, Typescript**
 
 - 📫 How to reach me **margamsriaknth.cs7@gmail.com**
 
